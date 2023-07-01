@@ -2,7 +2,7 @@ package J1.L.P0021;
 
 public class Main {
 
-    // show menu to main screen
+    // show menu to main screen//
     private void ShowMenu() {
         System.out.println("WELCOME TO STUDENT MANAGEMENT");
         System.out.println("\t1. Create");
