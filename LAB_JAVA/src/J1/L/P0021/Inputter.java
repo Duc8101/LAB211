@@ -8,7 +8,7 @@ public class Inputter {
     private static final String[] COURSE = {"Java", ".Net", "C/C++"};
 
     public Inputter() {
-
+/////
     }
 
     // input option
